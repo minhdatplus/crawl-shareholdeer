@@ -1,0 +1,14 @@
+com/example/crawlssi/outgate/ssi/response/CapAndDividendResp.class
+com/example/crawlssi/outgate/ssi/request/CapAndDividendReqModel.class
+com/example/crawlssi/repository/CapitalRepository.class
+com/example/crawlssi/outgate/ssi/response/CapitalListModel.class
+com/example/crawlssi/outgate/ssi/response/CashDividendListModel.class
+com/example/crawlssi/outgate/ssi/response/CapAndDividendWrapper.class
+com/example/crawlssi/repository/entity/CashDividend.class
+com/example/crawlssi/repository/AssetRepository.class
+com/example/crawlssi/repository/entity/Asset.class
+com/example/crawlssi/repository/CashDividendRepository.class
+com/example/crawlssi/outgate/ssi/response/AssetListModel.class
+com/example/crawlssi/repository/entity/Capital.class
+com/example/crawlssi/outgate/ssi/response/TabCapitalAndDividend.class
+com/example/crawlssi/outgate/ssi/response/CapAndDividendDataGroup.class
