@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>crawl-ssi</artifactId>
+    <artifactId>crawl-shareholder</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>crawl-ssi</name>
+    <name>crawl-shareholder</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>1.8</java.version>
